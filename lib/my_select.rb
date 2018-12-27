@@ -6,4 +6,5 @@ def my_select(collection)
     
     i += 1
   end
+  return_value
 end
